@@ -9,6 +9,7 @@ document.getElementById('master-sidebar').innerHTML = `
         <ul>
             <li><a href="index.html">Writing</a></li>
             <li><a href="talks.html">Talks</a></li>
+            <li><a href="teaching.html">Teaching</a></li>
             <li><a href="https://www.flickr.com/photos/204432557@N07/albums">Places I've been</a></li>
             <li><a href="https://www.flickr.com/photos/204432557@N07/albums/72177720332985553/">Cats I've met</a></li>
             <li><a href="https://www.flickr.com/photos/204432557@N07/albums/72177720332966067">Bluebell</a></li>
