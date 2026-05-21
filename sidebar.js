@@ -3,6 +3,7 @@ document.getElementById('master-sidebar').innerHTML = `
     <h1>Richard Pettigrew</h1>
     <p>Department of Philosophy, University of Bristol.</p>
     <p>Richard.Pettigrew@bristol.ac.uk</p>
+    <p>(From October 2026, I will be Wykeham Professor of Logic at Oxford.)</p>
     <p><a href="https://richardpettigrew.substack.com/">Substack</a> | <a href="https://drive.google.com/file/d/1LrVwO-7uGRNT9vOJJv6JAZ4nlnGOTQN6/view?usp=sharing">CV</a></p>
     
     <nav>
